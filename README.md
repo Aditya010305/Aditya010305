@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Internships-16A34A?style=for-the-badge&logo=target&logoColor=white" alt="Open to AI/ML internships"/>
 <img src="https://img.shields.io/badge/Location-Delhi%20NCR%2C%20India-0891B2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Delhi NCR, India"/>
-<img src="https://img.shields.io/badge/B.Tech%20CSE-KIET%20%C2%B7%202028-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white" alt="B.Tech CS, KIET, 2028"/>
+<img src="https://img.shields.io/badge/B.Tech%20CS-KIET%20%C2%B7%202028-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white" alt="B.Tech CS, KIET, 2028"/>
 
 <br/>
 
@@ -22,7 +22,7 @@ I'm a **3rd-year B.Tech Computer Science student** at **KIET Group of Institutio
 
 ```python
 class Aditya:
-    role       = "B.Tech CSE Student · AI/ML"
+    role       = "B.Tech CS Student · AI/ML"
     focus      = ["Machine Learning", "Deep Learning", "NLP", "Transformers"]
     languages  = ["Python", "Java", "JavaScript"]
     certified  = ["AWS Cloud Practitioner", "Stanford x DeepLearning.AI (2 courses)"]
@@ -66,15 +66,15 @@ class Aditya:
 <b>Apps & Data</b><br/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 </p>
 <p align="center">
 <b>Cloud & Tools</b><br/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -105,11 +105,37 @@ class Aditya:
 ### 🔍 GapFinder AI
 ![Status](https://img.shields.io/badge/Status-In%20progress-F59E0B?style=flat-square)
 
-Resume-vs-job-description analyzer that finds skill gaps using **TF-IDF and embedding similarity**, with an interactive Streamlit UI.
+Resume-vs-job-description analyzer that finds skill gaps using **TF-IDF and embedding similarity**.
 
-`Python` `Streamlit` `scikit-learn` `Embeddings`
+`Python` `scikit-learn` `Embeddings`
 
 [![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/Aditya010305/gapfinder-ai)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 AI Text Toolkit
+![Type](https://img.shields.io/badge/Type-Full--stack%20NLP-7C3AED?style=flat-square)
+
+Full-stack NLP web app that runs pre-trained **Hugging Face** transformer models locally: sentiment analysis, English-to-French translation, summarization, question answering and zero-shot classification.
+
+`React` `Vite` `FastAPI` `PyTorch` `Transformers`
+
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/Aditya010305/AI-Text-Toolkit)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏏 Virtual IPL Auction
+![Status](https://img.shields.io/badge/Status-Live-16A34A?style=flat-square)
+
+Real-time multiplayer **IPL auction simulator**. A host creates a room, team owners join and bid live over **WebSockets**, with an auto-extending bid timer, live team rosters, CSV export and Google or guest login.
+
+`React` `Vite` `Express` `Socket.IO` `MongoDB`
+
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/Aditya010305/IPL) [![Live](https://img.shields.io/badge/Visit-Live%20Demo-F97316?style=flat-square&logo=vercel&logoColor=white)](https://ipl-topaz.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -119,7 +145,7 @@ Resume-vs-job-description analyzer that finds skill gaps using **TF-IDF and embe
 
 Animated portfolio with a terminal component, live GitHub stats, projects, certifications and a learning-journey timeline.
 
-`React` `Vite` `Tailwind CSS` `Framer Motion`
+`React` `Vite` `Framer Motion`
 
 [![Live](https://img.shields.io/badge/Visit-Live%20Site-F97316?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-pi-nine-yydd7dqqtz.vercel.app/)
 
@@ -138,32 +164,12 @@ Plant disease detection project built for the **Smart India Hackathon (SIH) 2025
 </td>
 <td width="50%" valign="top">
 
-### 💬 Sentiment Analysis Web App
-![Type](https://img.shields.io/badge/Type-Web%20App-7C3AED?style=flat-square)
-
-Web app that classifies text sentiment using a scikit-learn model served through Flask.
-
-`Python` `Flask` `scikit-learn`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### ❤️ Heart Disease Dashboard
 ![Type](https://img.shields.io/badge/Type-Dashboard-DC2626?style=flat-square)
 
 Exploratory analysis and an interactive **Tableau** dashboard on heart disease data, with a Flask component.
 
 `Tableau` `Flask` `EDA` `Python`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌍 GeoPlanner AI
-![Status](https://img.shields.io/badge/Status-Early%20stage-F59E0B?style=flat-square)
-
-An AI project in its early planning phase. Details and repository will be added as development progresses.
 
 </td>
 </tr>
