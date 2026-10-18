@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Internships-16A34A?style=for-the-badge&logo=target&logoColor=white" alt="Open to AI/ML internships"/>
 <img src="https://img.shields.io/badge/Location-Delhi%20NCR%2C%20India-0891B2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Delhi NCR, India"/>
-<img src="https://img.shields.io/badge/B.Tech%20CSE-KIET%20%C2%B7%202028-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white" alt="B.Tech CSE, KIET, 2028"/>
+<img src="https://img.shields.io/badge/B.Tech%20CSE-KIET%20%C2%B7%202028-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white" alt="B.Tech CS, KIET, 2028"/>
 
 <br/>
 
